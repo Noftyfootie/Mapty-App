@@ -314,3 +314,5 @@ class App {
 const app = new App();
 
 console.log('update');
+
+console.log('content end');
